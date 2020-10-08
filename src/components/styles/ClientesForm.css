@@ -1,0 +1,80 @@
+.clientes_form {
+  border-radius: 15px;
+  width: 100%;
+  height: 85%;
+  background: #ffffff;
+  box-shadow: 0 4px 8px 0 #87cbe2;
+  border-radius: 8px 8px 8px 8px;
+}
+
+.body_title {
+  background: #87cbe2;
+  padding: 10px;
+  font-weight: bold;
+  color: white;
+  border-radius: 8px 8px 0 0;
+  font-size: 24px;
+  font-family: Lato;
+}
+
+.body_title div {
+  display: inline-block;
+}
+
+.plus-container {
+  float: right;
+  display: inline-block;
+  color: gray;
+  font-size: 20px;
+  margin-top: 3px;
+}
+
+.edit-container {
+  display: inline-block;
+  color: gray;
+  font-size: 20px;
+  margin-top: 3px;
+  margin-right: 20px;
+}
+
+.delete-container {
+  display: inline-block;
+  color: gray;
+  font-size: 20px;
+  margin-top: 3px;
+}
+
+.plus-container:hover {
+  cursor: pointer;
+  color: green;
+}
+
+.edit-container:hover {
+  cursor: pointer;
+  color: #87cbe2;
+}
+
+.delete-container:hover {
+  cursor: pointer;
+  color: red;
+}
+
+.action-container {
+  text-align: center;
+}
+
+.clientes_body {
+  padding: 15px;
+  overflow-y: auto;
+  height: 92.5%;
+}
+
+#nacimiento_input {
+  display: inline-block;
+  width: 85%;
+}
+
+.tr-container:hover {
+  cursor: pointer;
+  background: #e5f7fe !important;
+}

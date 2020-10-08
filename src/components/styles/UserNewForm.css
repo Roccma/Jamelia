@@ -1,0 +1,40 @@
+.UserNewContainer {
+  background: #ffffff;
+  box-shadow: 0 4px 8px 0 #87cbe2;
+  border-radius: 8px 8px 8px 8px;
+  overflow: hidden;
+  width: 50%;
+}
+
+.UserNewTitle {
+  background: #87cbe2;
+  padding: 10px;
+  font-weight: bold;
+  color: white;
+}
+
+.UserNewForm {
+  padding: 18px;
+}
+
+.UserNewTable {
+  width: 100%;
+}
+
+.UserNewTable tr {
+  width: 100%;
+}
+
+.UserNewTable tr td {
+  padding: 10px 10px 0 10px;
+  font-size: 14px;
+}
+
+.UserNewTable tr td label {
+  font-weight: bold;
+}
+
+.UserNewBtn {
+  width: 100%;
+  margin: 25px 0px;
+}

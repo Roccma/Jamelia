@@ -1,0 +1,51 @@
+.UserLoginContainer {
+  background: #ffffff;
+  box-shadow: 0 4px 8px 0 #87cbe2;
+  border-radius: 8px 8px 8px 8px;
+  overflow: hidden;
+  width: 50%;
+}
+
+.UserLoginTitle {
+  background: #87cbe2;
+  padding: 10px;
+  font-weight: bold;
+  color: white;
+}
+
+.UserLoginForm {
+  padding: 18px;
+}
+
+.UserLoginTable {
+  width: 100%;
+}
+
+.UserLoginTable tr {
+  width: 100%;
+}
+
+.UserLoginTable tr td {
+  padding: 10px 10px 0 10px;
+  font-size: 14px;
+}
+
+.UserLoginwTable tr td label {
+  font-weight: bold;
+}
+
+.UserLoginBtn {
+  width: 100%;
+  margin: 25px 0px;
+}
+
+.UserLoginLabel {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.UserLoginLink {
+  font-size: 16px;
+  text-align: center;
+  display: block;
+}

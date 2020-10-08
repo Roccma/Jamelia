@@ -1,0 +1,20 @@
+@import "~react-agenda/build/styles.css";
+@import "~react-datetime/css/react-datetime.css";
+* {
+  font-family: Lato;
+}
+
+.btn-success {
+  background: #87cbe2 !important;
+  border-color: #87cbe2 !important;
+}
+
+.btn-success:hover {
+  border-color: #87cbe2 !important;
+}
+
+.btn-success:not(:disabled):not(.disabled).active:focus,
+.btn-success:not(:disabled):not(.disabled):active:focus,
+.show > .btn-success.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(153, 222, 235, 1);
+}

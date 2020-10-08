@@ -1,0 +1,16 @@
+.cliente-data {
+  text-align: center;
+  font-size: 18px;
+}
+
+.cliente-data-container {
+  display: inline-block;
+}
+
+.cliente-data-container:first-child {
+  margin-right: 200px;
+}
+
+.tr:hover {
+  background: #e5f7fe !important;
+}

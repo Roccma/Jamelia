@@ -1,0 +1,40 @@
+.schedule_form {
+  border-radius: 15px;
+  width: 100%;
+  height: 85%;
+  background: #ffffff;
+  box-shadow: 0 4px 8px 0 #87cbe2;
+  border-radius: 8px 8px 8px 8px;
+  overflow: hidden;
+}
+
+.body_title {
+  background: #87cbe2;
+  padding: 10px;
+  font-weight: bold;
+  color: white;
+  border-radius: 8px 8px 0 0;
+  font-size: 24px;
+  font-family: Lato;
+}
+
+.body_title div {
+  display: inline-block;
+}
+
+.schedule_body {
+  padding: 15px;
+}
+
+.agenda__table:nth-last-child() {
+  height: 590px !important;
+}
+
+#select-sucursal {
+  width: 200px;
+}
+
+#select-container {
+  position: absolute;
+  top: -10px;
+}

@@ -1,0 +1,11 @@
+* {
+  font-family: Lato;
+}
+nav {
+  background: #87cbe2 !important;
+}
+
+.nav-item {
+  font-weight: bold !important;
+  font-size: 18px;
+}

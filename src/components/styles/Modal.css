@@ -1,0 +1,36 @@
+.color-main {
+  color: #87cbe2 !important;
+}
+
+.color-blue {
+  color: #3f51b5 !important;
+}
+
+.color-red {
+  color: red !important;
+}
+
+button {
+  outline: 0 !important;
+}
+
+#dialog-editar {
+  width: 1000px !important;
+  margin: 0 auto;
+}
+
+#form-dialog-title-editar {
+  width: 100% !important;
+}
+
+#form-dialog-content-editar {
+  width: 100% !important;
+}
+
+#form-dialog-actions-editar {
+  width: 100% !important;
+}
+
+.MuiPaper-root[role="dialog"] {
+  width: 500px !important;
+}

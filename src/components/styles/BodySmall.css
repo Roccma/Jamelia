@@ -1,0 +1,25 @@
+.body_small {
+  position: fixed;
+  top: 250px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgb(135, 203, 226);
+  background: linear-gradient(
+    351deg,
+    rgba(62, 197, 242, 1) 0%,
+    rgba(255, 255, 255, 1) 73%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+
+.body_small_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.body_title {
+  text-align: center;
+}

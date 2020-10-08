@@ -1,0 +1,15 @@
+.header_big {
+  position: fixed;
+  display: flex;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 250px;
+  justify-content: space-between;
+  background-color: white;
+}
+
+.imgLogo {
+  height: 150px;
+  margin-top: 50px;
+}
